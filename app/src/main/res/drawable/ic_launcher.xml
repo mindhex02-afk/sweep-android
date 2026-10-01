@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Broom handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,30 L82,38 L50,70 L42,62 Z" />
+    <!-- Broom head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,66 L46,88 L30,92 L20,76 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,58 L52,76 L44,84 L26,66 Z" />
+</vector>
